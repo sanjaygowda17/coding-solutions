@@ -38,7 +38,7 @@ Print the list of integers from $1$ through $n$ as a string, without spaces.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-30T13:42:02.441Z  
+**Submitted:** 2026-09-30T13:47:17.403Z  
 
 ```py
 if __name__ == '__main__':
