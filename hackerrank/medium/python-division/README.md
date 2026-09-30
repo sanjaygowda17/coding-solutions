@@ -48,7 +48,7 @@ Print the two lines as described above.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-29T06:00:36.007Z  
+**Submitted:** 2026-09-30T15:56:41.099Z  
 
 ```py
 if __name__ == '__main__':
@@ -56,6 +56,7 @@ if __name__ == '__main__':
     b = int(input())
     print(a//b)
     print(a/b)
+    
 
 ```
 
