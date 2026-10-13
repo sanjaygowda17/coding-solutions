@@ -43,7 +43,7 @@ $0 \lt len(s) \le 1000$
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-13T16:05:11.551Z  
+**Submitted:** 2026-10-13T16:06:26.440Z  
 
 ```py
 def swap_case(s):
