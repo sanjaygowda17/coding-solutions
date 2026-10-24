@@ -1,0 +1,13 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+n , m = map(int, input().split())
+
+j=1
+lines_list=[]
+for i in range(n//2):
+    lines_list.append(('.|.'*(j)).center(m,'-'))
+    j+=2
+for line in lines_list:
+    print(line)
+print('WELCOME'.center(m,'-'))
+for line in reversed(lines_list):
+    print(line)
