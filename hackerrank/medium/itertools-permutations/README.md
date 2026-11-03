@@ -50,7 +50,7 @@ Print the permutations of the string $S$ on separate lines.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T14:41:37.694Z  
+**Submitted:** 2026-11-03T14:42:59.972Z  
 
 ```py
 # Enter your code here. Read input from STDIN. Print output to STDOUT
